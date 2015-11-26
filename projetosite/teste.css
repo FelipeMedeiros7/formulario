@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	padding: 0;
+	outline: none;
+	font-family: "Calibri";
+	font-size: 20px;
+}
+
+.forms{
+	width: 0px;
+	height: 100px;
+
+}
